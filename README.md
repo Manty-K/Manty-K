@@ -1,9 +1,6 @@
 # Hi 👋, I'm Manthan Khandale
-### A passionate developer from India 🇮🇳
-
-
-
-
+### A passionate developer from India.
+<img src="Profile.jpg" alt="drawing" width="300"/>
 
 <!--
 **Manty-K/Manty-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
