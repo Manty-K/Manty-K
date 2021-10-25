@@ -2,6 +2,11 @@
 ### A passionate developer from India.
 <img src="Profile.jpg" alt="drawing" width="300"/>
 
+[![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manty-K&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manty-K)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Manty-K/Manty-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
