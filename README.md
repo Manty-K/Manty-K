@@ -1,5 +1,11 @@
 # Hi 👋, I'm Manthan Khandale
-### A passionate developer from India.
+### A passionate Flutter Developer from India.
+
+[![GitHub Manty-k](https://img.shields.io/github/followers/Manty-K?label=follow&style=social)](https://github.com/Manty-K)
+[![Linkedin: Manthan Khandale](https://img.shields.io/badge/-Manthan%20Khandale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-khandale/)](https://www.linkedin.com/in/manthan-khandale/)
+[![Twitter: Manthan Khandale](https://img.shields.io/twitter/follow/KhandaleManthan?style=social)](https://twitter.com/KhandaleManthan)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=vermakhushboo&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Manthan%20Khandale-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@manthankhandale)](https://medium.com/@manthankhandale)
 
 [![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manty-K&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
