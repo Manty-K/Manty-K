@@ -1,11 +1,11 @@
 # Hi 👋, I'm Manthan Khandale
 ### A passionate Flutter Developer from India.
 
-[![GitHub Manty-k](https://img.shields.io/github/followers/Manty-K?label=follow&style=social)](https://github.com/Manty-K)
-[![Linkedin: Manthan Khandale](https://img.shields.io/badge/-Manthan%20Khandale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-khandale/)](https://www.linkedin.com/in/manthan-khandale/)
-[![Twitter: Manthan Khandale](https://img.shields.io/twitter/follow/KhandaleManthan?style=social)](https://twitter.com/KhandaleManthan)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vermakhushboo&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Manthan%20Khandale-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@manthankhandale)](https://medium.com/@manthankhandale)
+[![GitHub Manty-k](https://img.shields.io/github/followers/Manty-K?label=follow&style=for-the-badge)](https://github.com/Manty-K)
+[![Linkedin: Manthan Khandale](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-khandale/)](https://www.linkedin.com/in/manthan-khandale/)
+[![Twitter: Manthan Khandale](https://img.shields.io/twitter/follow/KhandaleManthan?color=%09%231DA1F2&label=Twitter&style=for-the-badge&logo=Twitter)](https://twitter.com/KhandaleManthan)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@manthankhandale)](https://medium.com/@manthankhandale)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC0xwzV_5nqen2mU-utTAq9Q?label=Youtube&style=for-the-badge)](https://www.youtube.com/channel/UC0xwzV_5nqen2mU-utTAq9Q)
 
 [![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manty-K&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
