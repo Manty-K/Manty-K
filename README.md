@@ -12,11 +12,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manty-K)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2834](https://github.com/EddieHubCommunity/support/issues/2834) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#4](https://github.com/Manty-K/FeelingsHub/pull/4) in [Manty-K/FeelingsHub](https://github.com/Manty-K/FeelingsHub)
-3. 🎉 Merged PR [#1](https://github.com/Manty-K/FeelingsHub/pull/1) in [Manty-K/FeelingsHub](https://github.com/Manty-K/FeelingsHub)
-4. 🎉 Merged PR [#2](https://github.com/Manty-K/FeelingsHub/pull/2) in [Manty-K/FeelingsHub](https://github.com/Manty-K/FeelingsHub)
-5. 🎉 Merged PR [#3](https://github.com/Manty-K/FeelingsHub/pull/3) in [Manty-K/FeelingsHub](https://github.com/Manty-K/FeelingsHub)
+1. ❗️ Opened issue [#92](https://github.com/civo/kube100/issues/92) in [civo/kube100](https://github.com/civo/kube100)
+2. ❗️ Opened issue [#2834](https://github.com/EddieHubCommunity/support/issues/2834) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#4](https://github.com/Manty-K/FeelingsHub/pull/4) in [Manty-K/FeelingsHub](https://github.com/Manty-K/FeelingsHub)
+4. 🎉 Merged PR [#1](https://github.com/Manty-K/FeelingsHub/pull/1) in [Manty-K/FeelingsHub](https://github.com/Manty-K/FeelingsHub)
+5. 🎉 Merged PR [#2](https://github.com/Manty-K/FeelingsHub/pull/2) in [Manty-K/FeelingsHub](https://github.com/Manty-K/FeelingsHub)
 <!--END_SECTION:activity-->
 
 
