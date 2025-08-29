@@ -1,5 +1,5 @@
 # Hi 👋, I'm Manthan Khandale
-### A passionate Flutter Developer from India.
+
 [![An image of @mantyk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mantyk)](https://holopin.io/@mantyk)
 [![GitHub Manty-k](https://img.shields.io/github/followers/Manty-K?label=follow&style=for-the-badge)](https://github.com/Manty-K)
 [![Linkedin: Manthan Khandale](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-khandale/)](https://www.linkedin.com/in/manthan-khandale/)
